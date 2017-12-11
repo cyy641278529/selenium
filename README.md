@@ -10,7 +10,7 @@ npm install selenium-webdriver
 
 ## Download
 
-Download browserify drivers and add them to environment path
+Download browser's drivers and add them to environment path
 e.g. chromedriver: 
 http://chromedriver.storage.googleapis.com/index.html 
 taobao mirror:
