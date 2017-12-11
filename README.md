@@ -11,10 +11,13 @@ npm install selenium-webdriver
 ## Download
 
 Download browser's drivers and add them to environment path
+
 e.g. chromedriver: 
+
 http://chromedriver.storage.googleapis.com/index.html 
 
 taobao mirror:
+
 https://npm.taobao.org/mirrors/chromedriver/
 
 ## Run
